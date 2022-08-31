@@ -17,7 +17,6 @@ Imports:
     NMF (>= 0.23.0),
     ggalluvial,
     stringr,
-    svglite,
     Matrix,
     expm,
     Rtsne,
